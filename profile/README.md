@@ -1,9 +1,9 @@
-# Cruise Tech Solutions
+# Cruze-Tech
 
-Welcome to **Cruise Tech Solutions**! We are an innovative tech company based in Uganda, specializing in IT consultancy, mobile app development, fleet management, tracking services, and more. We deliver custom solutions to meet the ever-evolving needs of our clients.
+Welcome to **Cruze-Tech**! We are an innovative tech company based in Uganda, specializing in IT consultancy, mobile app development, fleet management, tracking services, and more. We deliver custom solutions to meet the ever-evolving needs of our clients.
 
 ## Our Expertise
-At Cruise Tech Solutions, we take pride in offering a diverse range of services, including:
+At Cruze-Tech Solutions, we take pride in offering a diverse range of services, including:
 
 - **Software Development**: Tailored software solutions for businesses of all sizes.
 - **Web Development**: Responsive, scalable, and dynamic websites with the latest technologies.
