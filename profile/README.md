@@ -1,12 +1,24 @@
-# Cruze-Tech
+# 🚀 Cruze-Tech
 
-Welcome to **Cruze-Tech**! We are an innovative tech company based in Uganda, specializing in IT consultancy, mobile app development, fleet management, tracking services, and more. We deliver custom solutions to meet the ever-evolving needs of our clients.
+> Building tech that moves — from Uganda to the world.
 
-## Our Expertise
-At Cruze-Tech Solutions, we take pride in offering a diverse range of services, including:
+**Cruze-Tech** is a Gulu-based innovation hub blending code, creativity, and connectivity. We deliver custom-built software, mobile apps, and fleet systems with precision and purpose.
 
-- **Software Development**: Tailored software solutions for businesses of all sizes.
-- **Web Development**: Responsive, scalable, and dynamic websites with the latest technologies.
-- **Mobile App Development**: Cross-platform mobile apps for both iOS and Android.
-- **Fleet Management & Tracking**: Comprehensive solutions to manage and track fleets efficiently.
-- **IT Consultancy**: Expert guidance on IT infrastructure, strategy, and digital transformation.
+## 💡 What We Do
+
+- 🛠️ **Software Dev** – Tailored apps for bold businesses  
+- 🌐 **Web Dev** – Responsive, scalable, modern sites  
+- 📱 **Mobile Apps** – Cross-platform (iOS + Android) done right  
+- 🚗 **Fleet & Tracking** – Real-time vehicle + asset control  
+- 🧠 **IT Consultancy** – Strategy, infra, & digital acceleration
+
+## 📍 Headquarters
+Gulu City, Northern Uganda 🇺🇬
+
+## 🔗 Links
+🌐 [cruze-tech.com](https://cruze-tech.com)  
+📧 [info@cruze-tech.com](mailto:kubomu@cruze-tech.com)
+
+---
+
+> “We don't just build software. We build solutions that stick.” – Team Cruze-Tech
